@@ -3,13 +3,15 @@ const fs = require('fs');
 
 const generateREADME = ({ name, email, project, description, license, install, tests, uses, contrib }) =>
   `# ${project} 
-  ## Description ${description}
+  ## Description 
+  ${description}
 ## Table of Contents
-* [Installation](## Installation)
-* Usage
-* License
-* Tests
-* Questions
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contribution](#contribution)
+* [Tests](#tests)
+* [Questions](#questions)
 
 ## Installation
 ${install}

@@ -1,26 +1,28 @@
-# k project 
-  ## Description it is a cool project
+# Khadijah's project 
+  ## Description 
+  This is my project
 ## Table of Contents
-* [Installation](## Installation)
-* Usage
-* License
-* Tests
-* Questions
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contribution](#contribution)
+* [Tests](#tests)
+* [Questions](#questions)
 
 ## Installation
-dependent
+N/A
 
 ## Usage
-plz use this repo
+It is a great repo
 
 ## License
-license
+Please refer to the license in the repo
 
 ## Contribution
-contribute plz
+
 
 ## Tests
-tests
+
 
 ## Questions
 
