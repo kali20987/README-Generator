@@ -1,5 +1,5 @@
-# repo 
-  ## Description gr8 repo
+# k project 
+  ## Description it is a cool project
 ## Table of Contents
 * [Installation](## Installation)
 * Usage
@@ -8,10 +8,10 @@
 * Questions
 
 ## Installation
-yes
+dependent
 
 ## Usage
-gr8 gr8 repo
+plz use this repo
 
 ## License
 license
@@ -24,8 +24,8 @@ tests
 
 ## Questions
 
-Made by [kali](https://github.com/kali)
-Email: kali@gmail.com
+Made by [kali20987](https://github.com/kali20987)
+Email: khadijah.syed.ali@gmail.com
   
   
   
