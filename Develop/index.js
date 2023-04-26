@@ -5,7 +5,7 @@ const generateREADME = ({ name, email, project, description, license, install, t
   `# ${project} 
   ## Description ${description}
 ## Table of Contents
-* Installation
+* [Installation](## Installation)
 * Usage
 * License
 * Tests
@@ -23,11 +23,13 @@ ${license}
 ## Contribution
 ${contrib}
 
-## Command to run tests
+## Tests
 ${tests}
 
-### Made by ${name}
-### Email: ${email}
+## Questions
+
+Made by [${name}](https://github.com/${name})
+Email: ${email}
   
   
   `;
