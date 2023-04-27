@@ -1,6 +1,6 @@
 # Khadijah's project 
   ## Description 
-  This is my project
+  this is my project
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -10,19 +10,19 @@
 * [Questions](#questions)
 
 ## Installation
-N/A
+n/a
 
 ## Usage
-This is a good repo
+this is a good repo
 
 ## License
-Please refer to license in repo
+please refer to license in repo
 
 ## Contribution
 the user can contribute anything
 
 ## Tests
-N/A
+n/a
 
 ## Questions
 
