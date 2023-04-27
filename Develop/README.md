@@ -13,16 +13,16 @@
 N/A
 
 ## Usage
-It is a great repo
+This is a good repo
 
 ## License
-Please refer to the license in the repo
+Please refer to license in repo
 
 ## Contribution
-
+the user can contribute anything
 
 ## Tests
-
+N/A
 
 ## Questions
 

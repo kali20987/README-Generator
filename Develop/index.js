@@ -1,6 +1,8 @@
+//adding inquirer package
+
 const inquirer = require('inquirer');
 const fs = require('fs');
-
+//generates the README and how it will appear
 const generateREADME = ({ name, email, project, description, license, install, tests, uses, contrib }) =>
   `# ${project} 
   ## Description 
@@ -36,7 +38,7 @@ Email: ${email}
   
   `;
 
-
+//prompts the user will see
   inquirer
     .prompt([
         {
@@ -93,4 +95,4 @@ Email: ${email}
         );
     });
 
-
+//when the user answers if everything is okay, then the README will generate.
